@@ -60,6 +60,11 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
+Client output:
+![Alt text](<Screenshot from 2023-10-25 15-47-25.png>)
+
+server output:
+![Alt text](<Screenshot from 2023-10-25 15-49-06.png>)
 
 ## RESULT:
 The program is executed succesfully
