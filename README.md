@@ -27,8 +27,11 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+![Screenshot from 2023-10-25 15-47-25](https://github.com/gowriganeshns/webserver/assets/101335832/b89c1f4b-beaf-4556-baed-85d7bac09dbc)
 
 ## OUTPUT:
+![Screenshot from 2023-10-25 15-49-06](https://github.com/gowriganeshns/webserver/assets/101335832/f1213a1a-b31c-426d-8ab5-ad7372e7cf21)
+
 
 ## RESULT:
 The program is executed succesfully
